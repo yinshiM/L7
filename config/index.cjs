@@ -13,7 +13,7 @@ const USER_CONFIG = {
   APP_SECRET: 'b05b5c9c976b6a5d2ed841c21904f050',
 
   PROVINCE: '福建',
-  CITY: '建瓯市',
+  CITY: '南平',
 
   USERS: [
     {
