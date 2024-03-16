@@ -6,15 +6,6 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
- SWITCH: {
-    /** 每日天气 */
-    // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    weather: true,
-
-    /** 星座运势 */
-    // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    horoscope: true,
-  },
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx1df09e4ac8394015',
 
@@ -22,7 +13,7 @@ const USER_CONFIG = {
   APP_SECRET: 'b05b5c9c976b6a5d2ed841c21904f050',
 
   PROVINCE: '福建',
-  CITY: '南平',
+  CITY: '建瓯市',
 
   USERS: [
     {
